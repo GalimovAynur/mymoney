@@ -106,3 +106,4 @@ venv.bak/
 # My settings
 *.sqlite3
 .idea/
+.vscode/
